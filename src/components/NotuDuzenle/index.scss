@@ -1,0 +1,18 @@
+*{
+  //  margin: 0;
+}
+
+.notuDuzenle{
+    height: 400px;
+    width: 600px;
+    border: 1px solid blue;
+    background-color: antiquewhite;
+}
+.kaydetVeIptalButonlari{
+    display: flex;
+    justify-content: space-between;
+}
+.notDuzenleBox{
+    width: 100%;
+
+}
